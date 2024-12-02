@@ -1,0 +1,15 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Output directories
+bin/
+obj/
+publish/
+
+# Temporary files
+*.rsp
+*.log
